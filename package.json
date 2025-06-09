@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@firebase/auth": "^1.10.6",
     "axios": "^1.9.0",
     "crypto": "^1.0.1",
     "firebase": "^11.9.0",
